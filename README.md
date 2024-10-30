@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipto</h1>
 <h3 align="center">A passionate Developer from Bangladesh</h3>
-- 👨‍💻 Protfolio (https://protfolio-d.vercel.app/)
+ - 👨‍💻 Protfolio (https://protfolio-d.vercel.app/)
 
 - 🔭 I’m currently working on **Website and Android App**
 
