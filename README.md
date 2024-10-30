@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dipto</h1>
 <h3 align="center">A passionate Developer from Bangladesh</h3>
- - 👨‍💻 Protfolio (https://protfolio-d.vercel.app/)
 
 - 🔭 I’m currently working on **Website and Android App**
 
-- 👨‍💻 All of my projects video available at [https://www.youtube.com/watch?v=k_Ryg-VWmzU&lc=UgwJN2sw-nYnjX8zr0R4AaABAg](https://www.youtube.com/watch?v=k_Ryg-VWmzU&lc=UgwJN2sw-nYnjX8zr0R4AaABAg)
+- 🌐 Check out my [Portfolio](https://protfolio-d.vercel.app/)
 
-- 💬 Ask me about **react js ,next js, ai ,fastapi, nodejs, flutter**
+- 👨‍💻 All of my projects video available at [YouTube](https://www.youtube.com/watch?v=k_Ryg-VWmzU&lc=UgwJN2sw-nYnjX8zr0R4AaABAg)
+
+- 💬 Ask me about **React.js, Next.js, AI, FastAPI, Node.js, Flutter**
 
 - 📫 How to reach me **diptomistry50@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
