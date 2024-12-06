@@ -5,8 +5,6 @@
 
 - 🌐 Check out my [Portfolio](https://protfolio-d.vercel.app/)
 
-- 👨‍💻 All of my projects video available at [YouTube](https://www.youtube.com/watch?v=k_Ryg-VWmzU&lc=UgwJN2sw-nYnjX8zr0R4AaABAg)
-
 - 💬 Ask me about **React.js, Next.js, AI, FastAPI, Node.js, Flutter**
 
 
