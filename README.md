@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js, Next.js, AI, FastAPI, Node.js, Flutter**
 
-- 📫 How to reach me **diptomistry50@gmail.com**
+
 
 
 
