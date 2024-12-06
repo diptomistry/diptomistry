@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **Website and Android App**
-
-- 🌐 Check out my [Portfolio](https://protfolio-d.vercel.app/)
-
 - 💬 Ask me about **React.js, Next.js, AI, FastAPI, Node.js, Flutter**
 
 
