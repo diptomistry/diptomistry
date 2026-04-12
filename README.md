@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer from Bangladesh</h3>
 
 <p align="center">
-Focused on building scalable web and mobile applications with modern technologies.
+Focused on building scalable web applications with modern technologies.
 </p>
 
 ---
