@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dipto</h1>
+<h1 align="center">Hi, I'm Dipto</h1>
 <h3 align="center">Software Developer from Bangladesh</h3>
 
 <p align="center">
@@ -12,8 +12,7 @@ Focused on building scalable web and mobile applications with modern technologie
 
 ### 💡 Expertise
 - React.js, Next.js  
-- Node.js, FastAPI  
-- Flutter  
+- FastAPI   
 - AI integration
 
 ---
@@ -31,12 +30,3 @@ Focused on building scalable web and mobile applications with modern technologie
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=diptomistry&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=diptomistry&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
