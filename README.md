@@ -26,8 +26,3 @@ I build full-stack web systems and systems-leaning side projects, with work span
 ### Open source
 
 Upstream contribution includes a merged fix in [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) for `no-unused-vars` handling of partially exported merged declarations.
-
-### Links
-
-- Site: https://www.codinglad.com/about
-- GitHub: https://github.com/diptomistry
